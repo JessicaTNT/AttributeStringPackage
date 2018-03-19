@@ -93,7 +93,7 @@ UIKIT_EXTERN NSAttributedStringKey const NSVerticalGlyphFormAttributeName NS_AVA
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-   NSString *textStr = @"hello大家好，Welcome to the Little Demo，👏👏哈哈哒，是不是傻嘞🙄4d4d4d4d";
+   NSString *textStr = @"hello大家好，Welcome to the Little Demo，￥520.00";
     UILabel *myLable = [[UILabel alloc] initWithFrame:CGRectMake(0, 100, self.view.frame.size.width, 80)];
     myLable.numberOfLines = 0;
     myLable.text = textStr;
