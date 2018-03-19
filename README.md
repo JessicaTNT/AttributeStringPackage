@@ -1,4 +1,6 @@
 # AttributeStringPackage
 富文本简易封装
-将字符串中的文字辨别显示如下：
+
+## 运行结果截图
+![Image](https://github.com/JessicaTNT/AttributeStringPackage/blob/master/AttributeStringPackage/test.png)
 
